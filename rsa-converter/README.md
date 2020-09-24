@@ -7,12 +7,8 @@ Python script that converts RSA PEM key (PKCS#1) to XML and Vice Versa
 
 
 ```
-Need pycrypto installed.
-  <pre>
-    <code>
-    pip install pycrypto
-    </code>
-  </pre>
+Need pycrypto installed | - pip install pycrypto
+
 
 
 EXAMPLES
